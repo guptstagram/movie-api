@@ -1,0 +1,10 @@
+.content{
+  display: flex;
+}
+
+.movie-list{
+  flex: 4;
+}
+.movie-detail{
+  flex: 6;
+}
